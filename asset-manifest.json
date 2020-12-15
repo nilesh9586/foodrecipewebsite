@@ -1,5 +1,5 @@
 {
-  "main.css": "/foodrecipewebsite/static/css/main.a9d13e83.chunk.css",
+  "main.css": "/foodrecipewebsite/static/css/main.d482281a.chunk.css",
   "main.js": "/foodrecipewebsite/static/js/main.f985f206.chunk.js",
   "main.js.map": "/foodrecipewebsite/static/js/main.f985f206.chunk.js.map",
   "runtime~main.js": "/foodrecipewebsite/static/js/runtime~main.d2b502f8.js",
@@ -8,8 +8,8 @@
   "static/js/2.cfce6434.chunk.js": "/foodrecipewebsite/static/js/2.cfce6434.chunk.js",
   "static/js/2.cfce6434.chunk.js.map": "/foodrecipewebsite/static/js/2.cfce6434.chunk.js.map",
   "index.html": "/foodrecipewebsite/index.html",
-  "precache-manifest.444346dc2da9e0ec4fab6e7cd23a3938.js": "/foodrecipewebsite/precache-manifest.444346dc2da9e0ec4fab6e7cd23a3938.js",
+  "precache-manifest.887eed9edc7a8aed6fe19b3916b53b6f.js": "/foodrecipewebsite/precache-manifest.887eed9edc7a8aed6fe19b3916b53b6f.js",
   "service-worker.js": "/foodrecipewebsite/service-worker.js",
   "static/css/2.f9c6d5ad.chunk.css.map": "/foodrecipewebsite/static/css/2.f9c6d5ad.chunk.css.map",
-  "static/css/main.a9d13e83.chunk.css.map": "/foodrecipewebsite/static/css/main.a9d13e83.chunk.css.map"
+  "static/css/main.d482281a.chunk.css.map": "/foodrecipewebsite/static/css/main.d482281a.chunk.css.map"
 }

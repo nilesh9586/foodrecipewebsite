@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "3cf44c5023811b2498d6",
-    "url": "/foodrecipewebsite/static/css/main.06148e0c.chunk.css"
+    "revision": "18326e8f60b9cd661b27",
+    "url": "/foodrecipewebsite/static/css/main.a9d13e83.chunk.css"
   },
   {
-    "revision": "3cf44c5023811b2498d6",
+    "revision": "18326e8f60b9cd661b27",
     "url": "/foodrecipewebsite/static/js/main.ebc07291.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/foodrecipewebsite/static/js/2.cfce6434.chunk.js"
   },
   {
-    "revision": "63572d0cb16f246196c33eefe3978298",
+    "revision": "cf069284d67cb4f81540af0aecea23b5",
     "url": "/foodrecipewebsite/index.html"
   }
 ];

@@ -23,7 +23,7 @@ fastfood
     onChange={onInputChange}
    />
   <div className="input-group-append">
-   <button className="btn btn-dark ml-4" onClick={onSearchClick}>Search</button>
+   <button className="btn btn-dark ml-4" onClick={onSearchClick}>Serach</button>
   </div>
 </div>
         
